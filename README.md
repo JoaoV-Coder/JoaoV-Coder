@@ -1,7 +1,7 @@
 - 👋 Hi, I’m João Victor Pereira
 - 👀 I’m interested in JavaScript, NodeJS, CSS, HTML
 - 🌱 I’m currently learning JavaScript, NodeJS, CSS, HTML
-- 💞️ I’m looking to collaborate on ...
+
 
 
 <!---
